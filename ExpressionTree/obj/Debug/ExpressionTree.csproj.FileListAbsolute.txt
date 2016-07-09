@@ -1,0 +1,6 @@
+C:\Users\xuzz\Desktop\ExpressionTree\ExpressionTree\bin\Debug\ExpressionTree.exe.config
+C:\Users\xuzz\Desktop\ExpressionTree\ExpressionTree\bin\Debug\ExpressionTree.exe
+C:\Users\xuzz\Desktop\ExpressionTree\ExpressionTree\bin\Debug\ExpressionTree.pdb
+C:\Users\xuzz\Desktop\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.csprojResolveAssemblyReference.cache
+C:\Users\xuzz\Desktop\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.exe
+C:\Users\xuzz\Desktop\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.pdb
